@@ -1,129 +1,304 @@
 {
   "main": {
-    "name":"Shashwat Yadav",
-    "occupation":"Product Manager/Developer",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "name": "Shashwat Yadav",
+    "occupation": "Product Manager/Developer",
+    "description": "Let's collaborate to create disruptive products together",
+    "image": "profilepic.jpg",
+    "bio": "I am a New Delhi based product manager. I completed my B.Tech from Indian Institute of Technology Delhi and have worked in a wide range of domains such as financial services, politics, automotive and education. I truly believe in potential of innovation to favorably impact peoples’ lives; therefore, I enjoy creating tech-based products which can engender sustainable impact.",
+    "bio1": "I am a New Delhi based product manager. I completed my B.Tech from Indian Institute of Technology Delhi and have worked in a wide range of domains such as financial services, politics, automotive and education. I truly believe in potential of innovation to favorably impact peoples’ lives; therefore, I enjoy creating tech-based products which can engender sustainable impact.",
+    "bio2": "Throughout my career, not only have I pursued opportunities which can satisfy my passion but also sought creative tech-enabled ways to solve complex/ambiguous business-problems. Be it at Fractal (for Visa) where I created products to micro-target potential travelers or be it while I was consulting Prime Minister Modi for his 2014 general election campaign. At ClickGarage, a start-up I Co-founded, and which was later acquired by CarCrew Technologies, I conceptualized a cloud-based tool to manage partner workshops. The tool offerings multi-billion-dollar clients such as Uber and brought standardization to a highly fragmented after-sale automotive industry.",
+    "bio3": "I am interested in collaborating with like-minded futurists to conceptualize and create disruptive products.",
+    "contactmessage": "Please drop a message here or email me on y.shashwat@gmail.com to get in touch.",
     "email": "y.shashwat@gmail.com",
     "phone": "+91-97173-53148",
-    "address":{
-      "street":"W Block, Green Park Main",
-      "city":"New Delhi",
-      "state":"Delhi",
+    "address": {
+      "street": "W Block, Green Park Main",
+      "city": "New Delhi",
+      "state": "Delhi",
       "zip": "301001"
     },
     "website": "http://www.shashwatyadav.com",
-    "resumedownload":"",
-    "social":[
-      {
-        "name":"facebook",
-        "url":"http://facebook.com/shashwatyadav",
-        "className":"fa fa-facebook"
+    "resumedownload": "/CV_Shashwat_Yadav.pdf",
+    "social": [{
+        "name": "facebook",
+        "url": "http://facebook.com/shashwatyadav",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com/shashwatyadav",
-        "className":"fa fa-twitter"
+        "name": "twitter",
+        "url": "http://twitter.com/shashwatyadav",
+        "className": "fa fa-twitter"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/shashwatyadav/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shashwatyadav/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"https://www.instagram.com/shashwatyadav/",
-        "className":"fa fa-instagram"
+        "name": "instagram",
+        "url": "https://www.instagram.com/shashwatyadav/",
+        "className": "fa fa-instagram"
       },
       {
-        "name":"github",
-        "url":"http://github.com/yadavshashwat/",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "http://github.com/yadavshashwat/",
+        "className": "fa fa-github"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
-      {
-        "school":"University?",
-        "degree":"Bachelor of Technology",
-        "graduated":"April 2012",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [{
+      "school": "Indian Institute of Technology, Delhi",
+      "degree": "Bachelor of Technology",
+      "graduated": "April 2012",
+      "description": "Patent (#App : 1809/DEL/2013): Ideated and designed an innovative capillary flow (within textiles) testing device for thesis; Awarded 100% funding by Department of Science and Technology (DST), Government of India; Rights of the patent later sold to a Ahmedabad based private lab for further development"
+    }],
+    "work": [{
+        "company": "CareerAnna Education Pvt. Ltd.",
+        "title": "Chief Product Officer",
+        "website": "https://www.careeranna.com",
+        "companyDescription": "CareerAnna is India’s largest vernacular e-learning platform helping its users outperform in their respective competitive examination",
+        "years": "Jul’18 - Present",
+        "location": "Gurgaon, India",
+        "description_list": [{
+            "skill": "Leadership",
+            "description": "Leading a team of developers, designers and testers to manage the product dev process from conception through design, build, release, analysis & iteration making products providing users an interactive learning experience"
+          },
+          {
+            "skill": "Innovation",
+            "description": "Created an adaptive test engine that analyses user performance and creates a custom study plan and content"
+          },
+          {
+            "skill": "Implementation",
+            "description": "Redesigned the learning management system, product flow, navigational logic & streamlined the user experience across the platform, increasing the course completion rate from 42% to 64% in a span of 6 months"
+          }
+        ],
+        "media_coverage": []
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "company": "ClickGarage (acq. by CarCrew Technologies)",
+        "title": "Co-Founder and CEO ",
+        "website": "https://www.carcrew.in",
+        "companyDescription": "ClickGarage is a dealer owned workshop network to provide affordable, transparent & convenient automobile services",
+        "years": "Jul’15 - May’18",
+        "location": "Delhi, India",
+        "description_list": [{
+            "skill": "Management",
+            "description": "Built and led a team of 30+ employees who catered 16k+ customers, generating revenue of over $1.5M"
+          },
+          {
+            "skill": "Innovation",
+            "description": "Created first of its kind integrated workshop management system for partner workshops; Software is in use by 300+ workshops and led to an estimated aggregate net promoter score increment from 8 to 54 (575% Increase)"
+          },
+          {
+            "skill": "Negotiation",
+            "description": "Cultivated partnerships with 300+ workshops, suppliers such as Mobil1, Shell & businesses such as Uber, Ola"
+          },
+          {
+            "skill": "Acquisition",
+            "description": "Negotiated acquisition of the company in a cash & stock deal for its superior tech. and partner relationships"
+          }
+        ],
+        "media_coverage": [{
+          "link": "https://www.vccircle.com/exclusive-tvs-group-backed-carcrew-acquires-clickgarage/",
+          "name": "VCCircle"
+        },
+        {
+          "link": "https://techstory.in/carcrew-acquires-clickgarage-2018/",
+          "name": "TechStory"
+        }
+        ,
+        {
+          "link": "https://inshorts.com/news/tvsbacked-car-servicing-startup-carcrew-buys-clickgarage-1519127678315",
+          "name": "InShorts"
+        }
+        ,
+        {
+          "link": "https://yourstory.com/2016/03/automobile-repair-services/",
+          "name": "YourStory"
+        }]
+
+        
+      },
+      {
+        "company": "Indian National Congress (INC)",
+        "title": "External Consultant",
+        "website": "https://www.inc.in/en",
+        "companyDescription": "Consulted Mr. Ahmed Patel, member of parliament and chief architect of Congress’ parliamentary election victory in 2004 and 2009",
+        "years": "Jan’15 - Jun’15",
+        "location": "New Delhi, India",
+        "description_list": [{
+            "skill": "Strategy",
+            "description": "Ideated and executed various products to implement the outreach strategy for 2017 Gujarat assembly election"
+          },
+          {
+            "skill": "Leadership",
+            "description": "Selected and led 400+ volunteers across 40K+ booths to effectively utilize voter targeting products/strategies"
+          },
+          {
+            "skill": "Implementation",
+            "description": "Achieved over 15% vote share increment in 60 out of 91 targeted constituencies"
+          }
+        ],
+        "media_coverage": []
+      },
+      {
+        "company": "Citizens for Accountable Governance",
+        "title": "Project Lead",
+        "website": "https://www.indianpac.com",
+        "companyDescription": "Prime Minister Narendra Modi’s ¬(BJP) campaign management team in 2014; he won largest majority in 30 years with 170M+ votes",
+        "years": "Feb’14 - Dec’14",
+        "location": "Ahmedabad, India",
+        "description_list": [{
+            "skill": "Strategy",
+            "description": "As a team, introduced various tech-products for analytics-driven election campaigning; Saved ~20% of campaign resources (~$23M+) by segmenting ~600K booths based on propensity to vote for BJP and optimizing outreach operations"
+          },
+          {
+            "skill": "Leadership",
+            "description": "Hired and led a team of 13 analysts/developers for product development on poll booth analysis, sentiment analysis and opinion polling; Replaced 100-member vendor team saving $1M and reducing turn-around time by 4 months"
+          },
+          {
+            "skill": "Mass Outreach",
+            "description": "Conceptualized and led the tech-implementation of various mass voter outreach campaigns such as “Chai pe Charcha” (3M+ voters), “3D Hologram rallies” (7.5M+ voters) and “Run for Unity” (5M+ voters, Guinness world record)"
+          }
+        ],
+        "media_coverage": [{
+          "link": "https://indianexpress.com/article/india/politics/men-behind-narendra-modis-election-campaign-strategy/",
+          "name": "IndianExpress"
+        },
+        {
+          "link": "https://economictimes.indiatimes.com/news/economy/policy/narendra-modis-citizens-for-accountable-governance-cag-will-it-be-disbanded-or-play-bigger-role/articleshow/35131371.cms",
+          "name": "EconomicTimes"
+        }
+        ,
+        {
+          "link": "https://www.firstpost.com/politics/modi-wave-the-men-behind-indias-biggest-brand-story-1563957.html",
+          "name": "FirstPost"
+        }
+        ,
+        {
+          "link": "https://timesofindia.indiatimes.com/india/Modi-connects-with-the-people-through-his-chai-pe-charcha-campaign/articleshow/30292508.cms",
+          "name": "TimesOfIndia"
+        },
+        {
+          "link": "https://www.oneindia.com/feature/mission-2014-know-all-about-namos-chai-pe-charcha-campaign-1385857.html",
+          "name": "OneIndia"
+        },
+        {
+          "link": "https://www.indiatoday.in/india/story/narendra-modis-chai-pe-charcha-event-gets-rave-reviews-in-global-media-181022-2014-02-14",
+          "name": "IndiaToday"
+        },
+        {
+          "link": "https://www.telegraph.co.uk/news/worldnews/asia/india/10803961/Magic-Modi-uses-hologram-to-address-dozens-of-rallies-at-once.html",
+          "name": "TelegraphUK"
+        },
+        {
+          "link": "https://www.dnaindia.com/india/report-5800-locations-440-rallies-8-months-narendra-modi-takes-stock-of-lok-sabha-campaign-1987085",
+          "name": "DNA"
+        }
+
+      ] 
+      },
+      {
+        "company": "Fractal Analytics",
+        "title": "Analyst/Senior Analyst Consultant",
+        "website": "https://fractalanalytics.com/",
+        "companyDescription": "Fractal is a strategic partner to many Fortune 500 companies and helps them take strategic decision based on data analytics",
+        "years": "Jul’12 - Jan’14",
+        "location": "Dubai, UAE",
+        "description_list": [{
+            "skill": "Initiative",
+            "description": "Developed models for Farmers, a leading US based Insurance firm, to predict defaults which were pitched and sold to the client; due to self-driven initiatives, selected among 100+ analysts to represent Fractal at Visa office in Dubai"
+          },
+          {
+            "skill": "Stakeholder Management",
+            "description": "Spearheaded various projects for key client Visa such as analysing cross-border business opportunities, developing business cases for potential partnerships, achieving a perfect Net Promoter Score of 100"
+          }
+        ],
+        "media_coverage": []
       }
+
     ],
-    "work":[
-      {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+    "skills": [{
+        "name": "MS Excel",
+        "level": "90%"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      }
-    ],
-    "skills":[
-      {
-        "name":"Git",
-        "level":"60%"
+        "name": "SAS",
+        "level": "70%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name": "SQL",
+        "level": "65%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name": "R",
+        "level": "60%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name": "Python",
+        "level": "90%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name": "Django",
+        "level": "70%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name": "MongoDB",
+        "level": "60%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
-      }
-    ]
-  },
-  "portfolio":{
-    "projects": [
+        "name": "Balsamic",
+        "level": "70%"
+      },
+
       {
-        "title":"CareerAnna Test Engine",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"http://careeranna.shashwatyadav.com"
+        "name": "ReactJs/Redux",
+        "level": "70%"
+      },
+
+      {
+        "name": "HTML/CSS",
+        "level": "60%"
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
-      {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+  "portfolio": {
+    "projects": [{
+      "title": "CareerAnna",
+      "category": "India's largest vernacular languages supported e-learning platform",
+      "image": "CareerAnna.png",
+      "url": "http://www.careeranna.com"
+    },
+    {
+      "title": "ClickGarage/CarCrew",
+      "category": "A workshop managment tool and booking platform",
+      "image": "CarCrew.png",
+      "url": "http://www.carcrew.in/adminpanel"
+    },
+    {
+      "title": "Campaign4India",
+      "category": "An app to collaborate with the party leaders during elections",
+      "image": "Campaign4India.png",
+      "url": "https://play.google.com/store/apps/details?id=com.ipac"
+    },
+    {
+      "title": "Media Analysis Tool",
+      "category": "A tool to understand sentiment of netizens for political party leaders",
+      "image": "MediaAnalysis.png",
+      "url": "https://www.ipactesting.com/"
+    }]
+  },
+  
+  "testimonials": {
+    "testimonials": [{
+        "text": "Shashwat, a person full of passion and dedication towards his work. He was a key pillar of the team and had totally impressed the client with his initiatives. He has always gone an extra mile to get the work done. A sure recruit and a key Team member. All the best!!",
+        "user": "Rajat Khatri, Associate Director, PropTiger.com)"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text": "Given our professional association, I have had the opportunity to monitor shashwat's career progression. As a remarkably astute and committed professional, Shashwat has consistently delivered high-quality work, met and/or exceeded his deadline and performance expectations, and assisted my other colleagues at every available opportunity.",
+        "user": "Claire Olverman, Director Product Marketing, Visa"
       }
     ]
   }
